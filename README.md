@@ -60,9 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My Portfolio] <a name="about-project"></a>
-
-> Descriptions of my project
+# 📖 My Portfolio <a name="about-project"></a>
 
 **[My Portfolio]** is 🔥the complete portfolio which lets me showcase my work and provides each and every detail about me as software developer.
 
