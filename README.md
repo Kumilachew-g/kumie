@@ -92,9 +92,9 @@ After you're finished please remove all the comments and instructions!
 </details>
 
 <details>
-<summary>Vercel</summary>
+<summary>Deployment tool</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://vercel.com/">Vercel</a></li>
   </ul>
 </details>
 <!-- Features -->
