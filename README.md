@@ -108,7 +108,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://kumilachew-g.vercel.app/)
+[Live Demo Link](https://kumilachew-g.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,8 +141,6 @@ Example commands:
   https://github.com/Kumilachew-g/kumie.git
 ```
 
--
-
 ### Install
 
 Install this project with:
@@ -153,8 +151,6 @@ Command:
   cd kumie
  npm install
 ```
-
--
 
 ### Usage
 
