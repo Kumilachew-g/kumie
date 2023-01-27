@@ -91,6 +91,12 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
+<details>
+<summary>Vercel</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
