@@ -161,7 +161,7 @@ const skills = {
           skillName: "Tailwind",
           fontAwesomeClassname: "simple-icons:tailwindcss",
           style: {
-            color: "#CC6699",
+            color: "#38BDF8",
           },
         },
         {
