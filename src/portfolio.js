@@ -176,14 +176,14 @@ const skills = {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
           style: {
-            color: "#61DAFB",
+            color: "#5ED3F3",
           },
         },
         {
           skillName: "Redux",
           fontAwesomeClassname: "simple-icons:redux",
           style: {
-            color: "#61DAFB",
+            color: "#7248B6",
           },
         },
         {
