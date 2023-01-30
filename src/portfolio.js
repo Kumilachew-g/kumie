@@ -661,7 +661,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I enjoy sharing powerful lessons that can empower and positively impact readers. reader individually to change the core of their character.",
+      "For individual fundamental empowerment, I enjoy sharing powerful lessons that can empower and positively impact readers. Reader individually to change the core of their character.",
     link: "https://medium.com/@kumilachew1212/writing-an-article-8668e9d83e8",
     avatar_image_path: "blogs_image.svg",
   },
